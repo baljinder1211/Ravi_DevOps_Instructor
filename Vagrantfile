@@ -1,5 +1,5 @@
 # vi: set ft=ruby :
-
+#edit kar rahe hain
 # Builds Puppet Master and multiple Puppet Agent Nodes using JSON config file
 # Author: Gary A. Stafford
 
